@@ -4,7 +4,7 @@
 
 Please replace GoogleService-Info.plist.
 
-This sample has comple of error.
+This sample has a couple of error.
 
 
 When attempt sign in: <br>
